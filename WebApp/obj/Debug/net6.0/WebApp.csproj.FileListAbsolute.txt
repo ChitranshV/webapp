@@ -28,3 +28,6 @@ C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\o
 C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
 C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
 C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
